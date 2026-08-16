@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-35q80f.saturadar88win.xyz/sitemap.xml
